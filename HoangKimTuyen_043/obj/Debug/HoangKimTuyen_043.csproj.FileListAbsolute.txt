@@ -1,0 +1,10 @@
+E:\TEMP\HoangKimTuyen_043\HoangKimTuyen_043\bin\Debug\HoangKimTuyen_043.exe.config
+E:\TEMP\HoangKimTuyen_043\HoangKimTuyen_043\bin\Debug\HoangKimTuyen_043.exe
+E:\TEMP\HoangKimTuyen_043\HoangKimTuyen_043\bin\Debug\HoangKimTuyen_043.pdb
+E:\TEMP\HoangKimTuyen_043\HoangKimTuyen_043\obj\Debug\HoangKimTuyen_043.csprojResolveAssemblyReference.cache
+E:\TEMP\HoangKimTuyen_043\HoangKimTuyen_043\obj\Debug\HoangKimTuyen_043.Form1.resources
+E:\TEMP\HoangKimTuyen_043\HoangKimTuyen_043\obj\Debug\HoangKimTuyen_043.Form2.resources
+E:\TEMP\HoangKimTuyen_043\HoangKimTuyen_043\obj\Debug\HoangKimTuyen_043.Properties.Resources.resources
+E:\TEMP\HoangKimTuyen_043\HoangKimTuyen_043\obj\Debug\HoangKimTuyen_043.csproj.GenerateResource.Cache
+E:\TEMP\HoangKimTuyen_043\HoangKimTuyen_043\obj\Debug\HoangKimTuyen_043.exe
+E:\TEMP\HoangKimTuyen_043\HoangKimTuyen_043\obj\Debug\HoangKimTuyen_043.pdb
